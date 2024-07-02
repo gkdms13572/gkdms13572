@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20haeun's%20GitHub%20🙂&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20haeun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-
-<h2>Skill</h2>
+## ✅ skill 
 
 <p>
     <a href="https://github.com/gkdms13572/coding_test.git" target="_blank">
@@ -12,7 +11,7 @@
     </a>
 </p>
 
-<h2>Platforms</h2>
+## ✅ Platforms
 
 <p>
   <a href="https://github.com/gkdms13572" target="_blank">
