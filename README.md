@@ -7,7 +7,7 @@
         <img src="https://img.shields.io/badge/Python-green?style=flat&logo=python&logoColor=white" alt="Python">
     </a>
     <a href="https://github.com/gkdms13572/coding_test.git" target="_blank">
-        <img src="https://img.shields.io/badge/MySQL-DarkBlue?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+        <img src="https://img.shields.io/badge/MySQL-steelblue?style=flat&logo=mysql&logoColor=white" alt="MySQL">
     </a>
 </p>
 
@@ -15,7 +15,7 @@
 
 <p>
   <a href="https://github.com/gkdms13572" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=flat&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-blue?style=flat&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
