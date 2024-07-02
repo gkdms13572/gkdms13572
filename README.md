@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20to%20haeun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250&desc=Stellar%20Gradient&colors=1F2D50,3A5A9C)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20to%20haeun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250&colors=1F2D50,3A5A9C)
+
 
 
 ## ✅ skill 
