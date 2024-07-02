@@ -1,20 +1,21 @@
 <h1 align="center">🙂 <span style="font-size:2.5em;">WELLCOME</span> 🙂</h1>
 
-<h2 align="center">Skill</h2>
-<p align="center">
+<h2>Skill</h2>
+
+<p>
     <a href="https://github.com/gkdms13572/coding_test.git" target="_blank">
         <img src="https://img.shields.io/badge/Python-green?style=flat&logo=python&logoColor=white" alt="Python">
     </a>
     <a href="https://github.com/gkdms13572/coding_test.git" target="_blank">
-        <img src="https://img.shields.io/badge/MySQL-royalblue?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+        <img src="https://img.shields.io/badge/MySQL-DarkBlue?style=flat&logo=mysql&logoColor=white" alt="MySQL">
     </a>
 </p>
 
-<h2 align="center">Platforms</h2>
+<h2>Platforms</h2>
 
-<p align="center">
+<p>
   <a href="https://github.com/gkdms13572" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-blue?style=flat&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=flat&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
