@@ -19,6 +19,3 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gkdms13572&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" alt="nord">
-</p>
