@@ -3,16 +3,21 @@
 </p>
 
 
-
-
-## ✅ skill 
-
 <p>
     <a href="https://github.com/gkdms13572/coding_test.git" target="_blank">
         <img src="https://img.shields.io/badge/Python-yellow?style=flat&logo=python&logoColor=white" alt="Python">
     </a>
     <a href="https://github.com/gkdms13572/coding_test.git" target="_blank">
         <img src="https://img.shields.io/badge/MySQL-steelblue?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+    </a>
+    <a href="https://github.com/gkdms13572/coding_test.git" target="_blank">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+    </a>
+    <a href="https://github.com/gkdms13572/coding_test.git" target="_blank">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+    </a>
+    <a href="https://github.com/gkdms13572/coding_test.git" target="_blank">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
     </a>
 </p>
 
