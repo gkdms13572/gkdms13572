@@ -2,6 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=300&section=header&text=Welcome%20to%20Haeun's%20GitHub&fontSize=45&animation=twinkling&fontAlignY=38&fontColor=FFFFFF"/>
 </p>
 
+## ✅ Skill
 
 <p>
     <a href="https://github.com/gkdms13572/coding_test.git" target="_blank">
