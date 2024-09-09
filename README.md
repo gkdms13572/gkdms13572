@@ -20,6 +20,12 @@
     <a href="https://github.com/gkdms13572/coding_test.git" target="_blank">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
     </a>
+    <a href="https://github.com/gkdms13572/coding_test.git" target="_blank">
+        <img src="https://img.shields.io/badge/AJAX-005571?style=flat&logo=ajax&logoColor=white" alt="AJAX">
+    </a>
+    <a href="https://github.com/gkdms13572/coding_test.git" target="_blank">
+        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
+    </a>
 </p>
 
 ## ✅ Platforms
@@ -29,4 +35,3 @@
     <img src="https://img.shields.io/badge/GitHub-blue?style=flat&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
-
