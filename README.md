@@ -1,3 +1,6 @@
+<div align="center">
+    <img src="https://github.com/gkdms13572/images/blob/4417b04d24e055f05d5a71a78078b3ff70fb0659/%EC%BA%90%EB%A6%AD%ED%84%B0%20-%20%EB%B3%B5%EC%82%AC%EB%B3%B8.jpg" alt="Your Image" width="80%" />
+</div>
 
 
 ## ✅ Skill
